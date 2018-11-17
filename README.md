@@ -1,5 +1,5 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
-
+[![Build Status](https://dev.azure.com/tonyastewart/tutorial/_apis/build/status/wonderlint.pipelines-dotnet-core)](https://dev.azure.com/tonyastewart/tutorial/_build/latest?definitionId=4)
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
 | Example | Build status |
